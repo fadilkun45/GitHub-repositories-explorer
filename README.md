@@ -24,3 +24,11 @@ username checker is a web application designed to check public repo by owner use
   ```
 
 3. Open your browser and go to `http://localhost:5173`.
+
+## How to Run
+
+for testing you can use run
+
+  ```bash
+  bunx vitest
+  ```
