@@ -1,55 +1,26 @@
-# Project 1
+# username checker
 
 ## Description
 
-username checker is a web application designed to help users manage their daily tasks efficiently. The app provides a simple interface for creating, updating, and tracking tasks.
+username checker is a web application designed to check public repo by owner username. The app provides a simple interface and ui interactive.
 
 ## Tech Stack
 
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Package Manager:** npm
-
-## Folder Structure
-
-```
-project-1/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-│   └── package.json
-├── README.md
-```
+- **Main Tech:** React.js, axios (for fetch)
+- **Styling:** Tailwindcss
+- **Testing:** vitest
 
 ## How to Run
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/yourusername/project-1.git
-  cd project-1
+  git clone https://github.com/fadilkun45/username-checker.git
   ```
 
-2. **Start the backend:**
+2. **Start the App:**
   ```bash
-  cd backend
-  npm install
-  npm start
+  bun install
+  bun run dev
   ```
 
-3. **Start the frontend:**
-  ```bash
-  cd ../frontend
-  npm install
-  npm start
-  ```
-
-4. Open your browser and go to `http://localhost:3000`.
+3. Open your browser and go to `http://localhost:5173`.
