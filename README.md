@@ -1,8 +1,8 @@
-# username checker
+# GitHub repositories explorer
 
 ## Description
 
-username checker is a web application designed to check public repo by owner username. The app provides a simple interface and ui interactive.
+GitHub repositories explorer is a web application designed to check public repo by owner username. The app provides a simple interface and ui interactive.
 
 ## Tech Stack
 
